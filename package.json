@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot-maker-bot",
+  "author": "lzn",
+  "main": "bot.js",
+  "scripts": {"start": "node bot.js"},
+  "version": "1.6.10",
+  "dependencies": {
+    "audit": "0.0.6",
+    "chalk": "^4.1.0",
+    "discord.js": "^12.2.0",
+    "fstorm": "latest",
+    "hh-mm-ss": "^1.2.0",
+    "insert-line": "^1.1.0",
+    "jimp": "latest",
+    "join": "^3.0.0",
+    "libsodium-wrappers": "latest",
+    "node-cron": "^2.0.3",
+    "opusscript": "latest",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "latest",
+    "ytsr": "^3.3.1"
+  },
+  "is-music-bot": true
+}
